@@ -1,11 +1,11 @@
 {
     "name": "Budget Tracker",
     "short_name": "Budget",
-    "description": "An app that allows you to keep track of your expenses on and offline.",
-    "background_color": "#dddddd",
+    "description": "An app that allows you to track your credits and debits.",
+    "background_color": "#01579b",
     "theme_color": "#ffffff",
-    "fingerprints": false,
-    "inject": false,
+    "start_url": "/",
+    "display": "standalone",
     "icons": [
       {
         "src": "/icons/icon-72x72.png",
