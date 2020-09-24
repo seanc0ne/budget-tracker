@@ -6,9 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "lite-server": "lite-server",
-    "webpack": "webpack --watch",
-    "build": "webpack"
+    "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -27,8 +25,6 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
-    "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12",
-    "webpack-pwa-manifest": "^4.2.0"
+    "webpack": "^4.44.2"
   }
 }
